@@ -1,1 +1,4 @@
-
+<img src="https://github.com/deafult0user/Infosys-Springboard/blob/2b9ee55b88df035c1412802dfb41570cb5fc5576/Final%20Team%20Project%20-%20Amazon/Dashboards/AmazonHome.png"/>
+<img src="https://github.com/deafult0user/Infosys-Springboard/blob/5c837fe4624dd8d1fceb543eb5c6b2487ea4fee1/Final%20Team%20Project%20-%20Amazon/Dashboards/Amazon1.png"/>
+<img src="https://github.com/deafult0user/Infosys-Springboard/blob/2b9ee55b88df035c1412802dfb41570cb5fc5576/Final%20Team%20Project%20-%20Amazon/Dashboards/Amazon2.png"/>
+<img src="https://github.com/deafult0user/Infosys-Springboard/blob/2b9ee55b88df035c1412802dfb41570cb5fc5576/Final%20Team%20Project%20-%20Amazon/Dashboards/Amazon3.png"/>
