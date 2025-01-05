@@ -1,6 +1,6 @@
 # Infosys Springboard 
 <h2 align="center">Hi 👋, I'm Anurag Goyal</h2>
-<h3 align="center">A passionate Power Bi Developer Intern from India</h3>
+<h3 align="center">A Power Bi Developer Intern from India</h3>
 
 - 🔭 I’m currently working on **Finance Analysis Project under the internship Infosys Springboard**
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **goyalanurag10@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href='https://in.linkedin.com/in/anuraggoyal0803'>LinkedIn</a></h3>
 <p align="left">
 </p>
 
