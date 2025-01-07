@@ -41,3 +41,10 @@ For further questions or issues, feel free to create an issue or contact the rep
 ---
 
 ### Project Contributor: [Anurag Goyal](https://github.com/deafult0user)
+####Team Members
+<ul>
+  <li><a href='https://www.linkedin.com/in/omkar-ghodake-733220335'>Omkar</a></li>
+  <li><a href='https://linkedin.com/in/kaarthika-m'>Kaarthika</a></li>
+  <li><a href='https://www.linkedin.com/in/kapilnamdeo'>Kapil</a></li>
+  <li><a href='https://www.linkedin.com/in/ayushi-tiwari-btech'>Ayushi</a></li>
+</ul>
