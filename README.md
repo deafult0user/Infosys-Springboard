@@ -12,7 +12,7 @@
 <p align="left">
 </p>
 <h2>Team Project:Amazon Finance Analysis</h2>
-<img src='https://github.com/deafult0user/Infosys-Springboard/blob/95da19b30848d4a26736bfbd771e988be9ee2ccc/Final%20Team%20Project%20-%20Amazon/Dashboards/Amazon1.png'/>
+<img src='https://github.com/deafult0user/Infosys-Springboard/blob/b42615113ecd4718db41b3e24a41d03bb0204e6d/Final%20Team%20Project%20-%20Amazon/Dashboards/Amazon1.png'/>
 <h4>Team Members:</h4>
 <ul>
   <li>Anurag Goyal (GL)</li>
